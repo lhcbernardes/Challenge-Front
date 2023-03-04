@@ -4,10 +4,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `npm i` inside the path,  `npm start` for a dev server. Navigate to `http://localhost:4200/` and type the active that your prefer.
 
-## Code scaffolding
+![first_pic](https://user-images.githubusercontent.com/22158035/222869919-886e8a03-5c56-47c5-b066-f28e53a38828.png)
 
+![Sec_pic](https://user-images.githubusercontent.com/22158035/222869918-3f50fac7-3bd4-481b-99fb-25d2e7f177ac.png)
+
+## Code scaffolding!
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
